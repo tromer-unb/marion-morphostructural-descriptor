@@ -1,0 +1,7 @@
+```text
+numpy
+pandas
+Pillow
+scipy
+scikit-image
+matplotlib
