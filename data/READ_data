@@ -1,0 +1,10 @@
+# Input data
+
+This directory contains the segmented 2D geological pore-mask images used as input data for the Marion-based morphostructural descriptor.
+
+The three images used in the study are:
+
+```text
+patch_y3800_x3800_c0_mask.png
+patch_y7600_x19000_c0_mask.png
+patch_y7600_x53200_c0_mask.png
